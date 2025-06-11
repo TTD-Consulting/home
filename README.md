@@ -1,49 +1,47 @@
 # TTD Consulting – Public Wiki
 
-Welcome to the **TTD Consulting Public Wiki** 🐾
+Welcome to the **TTD Consulting Public Wiki Repository** 🐾
 
-This repository serves as a centralized, transparent, and evolving knowledge base for all public-facing information about our company, culture, and best practices.
-
----
-
-## 📚 What You'll Find Here
-
-This wiki is intended to be open and useful to:
-- Developers and Testers interested in how we work
-- Clients and partners who want to understand our standards
-- Anyone exploring our company culture and initiatives
-
-### 📌 Key Sections (so far)
-- **Employee KPI Self-Assessment** – A structured guide to help our team reflect and grow professionally
-- **Lifestyle & Wellness Goals** – A space for setting personal health and wellness intentions
-- (More coming soon...)
+This repository powers our [public company wiki](https://github.com/TTD-Consulting/home/wiki), where we share our development philosophy, engineering standards, and people-first practices.
 
 ---
 
-## 💡 Why This Exists
+## 🔗 Quick Links
 
-At TTD Consulting, we believe in **transparency**, **continuous improvement**, and the **human side of tech**. By making our internal frameworks public, we:
-- Hold ourselves accountable to high standards
-- Help others learn from our journey
-- Invite collaboration and feedback from the broader community
+- [📖 Wiki Home](https://github.com/TTD-Consulting/home/wiki)
+- [📝 Employee KPI Self-Assessment](https://github.com/TTD-Consulting/home/wiki/Employee-KPI's)
+- [🧑‍💻 Coding Standards](https://github.com/TTD-Consulting/home/wiki/Coding-Standards)
+- [💙 Lifestyle & Wellness Goals](https://github.com/TTD-Consulting/home/wiki/Employee-KPI's#10-lifestyle--wellness-goals)
 
 ---
 
-## 🚧 Contributing
+## 🧠 Purpose
 
-This is a living space. If you're part of the TTD team or community and want to suggest changes, open a pull request or discussion.
+This repository exists to:
+- Serve as the source of truth for our **public documentation and culture**
+- Enable easy collaboration and contribution to our **developer handbook**
+- Keep our working principles and standards open, consistent, and evolving
+
+---
+
+## 🤝 Contributing
+
+If you're part of the TTD team or community:
+- Suggest improvements by opening a GitHub Issue
+- Contribute changes via Pull Requests
+- Help shape the future of how we build, work, and grow together
 
 ---
 
 ## 🐶 From Benedict, Our Bulldog Mascot
 
-_"Leave the codebase cleaner than you found it, and your shoes at the door."_  
+_"Keep it clean. Keep it kind. Keep it TTD."_  
 — **Benedict**, Chief Mascot Officer
 
 ---
 
-## 🔗 About TTD Consulting
+## 🌍 About TTD Consulting
 
-We’re a full-stack software consulting company based in South Africa, building scalable, impactful software with a human touch.  
-Learn more: [https://www.ttdconsulting.net](https://www.ttdconsulting.net)
-
+TTD Consulting is a full-stack software consulting company based in South Africa.  
+We build scalable, impactful software with a human touch.  
+Website: [https://www.ttdconsulting.net](https://www.ttdconsulting.net)
