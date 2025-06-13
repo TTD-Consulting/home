@@ -9,10 +9,6 @@ This repository powers our [public company wiki](https://github.com/TTD-Consulti
 ## 🔗 Quick Links
 
 - [📖 Wiki Home](https://github.com/TTD-Consulting/home/wiki)
-- [📝 Employee KPI Self-Assessment](https://github.com/TTD-Consulting/home/wiki/Employee-KPI's)
-- [🧑‍💻 Coding Standards](https://github.com/TTD-Consulting/home/wiki/Coding-Standards)
-- [💙 Lifestyle & Wellness Goals](https://github.com/TTD-Consulting/home/wiki/Employee-KPI's#10-lifestyle--wellness-goals)
-
 ---
 
 ## 🧠 Purpose
