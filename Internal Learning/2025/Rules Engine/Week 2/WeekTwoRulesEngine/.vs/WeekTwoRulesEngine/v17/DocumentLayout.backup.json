@@ -1,0 +1,178 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\ageunder25rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\ageunder25rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\smokerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\smokerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\ruleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\ruleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\underwritinginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\underwritinginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 203,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6a22fc8f-6c1e-5388-aa3d-9dc8ddb2d262}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1330258491:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SmokerRule.cs",
+              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\SmokerRule.cs",
+              "RelativeDocumentMoniker": "Rules\\SmokerRule.cs",
+              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\SmokerRule.cs",
+              "RelativeToolTip": "Rules\\SmokerRule.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:40:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AgeUnder25Rule.cs",
+              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\AgeUnder25Rule.cs",
+              "RelativeDocumentMoniker": "Rules\\AgeUnder25Rule.cs",
+              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\AgeUnder25Rule.cs",
+              "RelativeToolTip": "Rules\\AgeUnder25Rule.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA/wBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:40:05.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RuleResult.cs",
+              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\RuleResult.cs",
+              "RelativeDocumentMoniker": "Rules\\RuleResult.cs",
+              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\RuleResult.cs",
+              "RelativeToolTip": "Rules\\RuleResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:39:34.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRule.cs",
+              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\IRule.cs",
+              "RelativeDocumentMoniker": "Rules\\IRule.cs",
+              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\IRule.cs",
+              "RelativeToolTip": "Rules\\IRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:39:28.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnderwritingInput.cs",
+              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\UnderwritingInput.cs",
+              "RelativeDocumentMoniker": "Rules\\UnderwritingInput.cs",
+              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\UnderwritingInput.cs",
+              "RelativeToolTip": "Rules\\UnderwritingInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:39:00.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T12:36:14.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ca8cc5c7-0231-406a-95cd-aa5ed6ac0190}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

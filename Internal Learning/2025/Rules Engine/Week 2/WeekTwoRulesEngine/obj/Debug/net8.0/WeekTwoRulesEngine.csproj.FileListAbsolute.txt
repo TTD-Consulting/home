@@ -1,0 +1,14 @@
+C:\Users\treve\source\repos\WeekTwoRulesEngine\bin\Debug\net8.0\WeekTwoRulesEngine.exe
+C:\Users\treve\source\repos\WeekTwoRulesEngine\bin\Debug\net8.0\WeekTwoRulesEngine.deps.json
+C:\Users\treve\source\repos\WeekTwoRulesEngine\bin\Debug\net8.0\WeekTwoRulesEngine.runtimeconfig.json
+C:\Users\treve\source\repos\WeekTwoRulesEngine\bin\Debug\net8.0\WeekTwoRulesEngine.dll
+C:\Users\treve\source\repos\WeekTwoRulesEngine\bin\Debug\net8.0\WeekTwoRulesEngine.pdb
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.AssemblyInfoInputs.cache
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.AssemblyInfo.cs
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.csproj.CoreCompileInputs.cache
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.dll
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\refint\WeekTwoRulesEngine.dll
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.pdb
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\WeekTwoRulesEngine.genruntimeconfig.cache
+C:\Users\treve\source\repos\WeekTwoRulesEngine\obj\Debug\net8.0\ref\WeekTwoRulesEngine.dll
