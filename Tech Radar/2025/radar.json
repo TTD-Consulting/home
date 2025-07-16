@@ -1,0 +1,87 @@
+[
+    {
+      "name": ".NET 8",
+      "ring": "trial",
+      "quadrant": "languages & frameworks",
+      "isNew": "TRUE",
+      "description": "Next major version of .NET with performance and C# enhancements; currently migrating from .NET 7."
+    },
+    {
+      "name": "Angular 18",
+      "ring": "trial",
+      "quadrant": "languages & frameworks",
+      "isNew": "TRUE",
+      "description": "Latest version of Angular offering improved performance and standalone components; upgrading from Angular 17."
+    },
+    {
+      "name": "NestJS",
+      "ring": "adopt",
+      "quadrant": "languages & frameworks",
+      "isNew": "FALSE",
+      "description": "TypeScript‑based Node.js framework used extensively for structured backend services, including integration with Prisma."
+    },
+    {
+      "name": "Dapper",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Lightweight ORM that simplifies data access and reduces overhead compared to heavier frameworks like Entity Framework."
+    },
+    {
+      "name": "Azure Application Insights",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "FALSE",
+      "description": "Comprehensive observability platform for monitoring application performance and diagnosing issues in real time."
+    },
+    {
+      "name": "GitHub Actions",
+      "ring": "adopt",
+      "quadrant": "tools",
+      "isNew": "TRUE",
+      "description": "CI/CD platform integrated with GitHub repositories; used for automating builds, tests, and deployments for TTD projects."
+    },
+    {
+      "name": "Caching Decorator Pattern",
+      "ring": "trial",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Design pattern for adding caching behavior to repository methods without modifying core logic, improving performance."
+    },
+    {
+      "name": "Observability with Hybrid Caching",
+      "ring": "assess",
+      "quadrant": "techniques",
+      "isNew": "TRUE",
+      "description": "Combining distributed and in‑memory caching with rich telemetry using Application Insights and Raygun for scalable performance."
+    },
+    {
+      "name": "Handlebars Templating Engine",
+      "ring": "adopt",
+      "quadrant": "techniques",
+      "isNew": "FALSE",
+      "description": "Template engine for generating Word and HTML documents, supporting custom helpers for dynamic content and image insertion."
+    },
+    {
+      "name": "Local AI Model Hosting",
+      "ring": "assess",
+      "quadrant": "techniques",
+      "isNew": "TRUE",
+      "description": "Running LLMs and inference models on‑premises to maintain data privacy and reduce cloud dependency in insurance policy analysis."
+    },
+    {
+      "name": "Azure Functions",
+      "ring": "adopt",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Serverless compute platform for building event‑driven microservices and integrations within TTD’s insurance applications."
+    },
+    {
+      "name": "Azure Service Fabric",
+      "ring": "hold",
+      "quadrant": "platforms",
+      "isNew": "FALSE",
+      "description": "Container orchestrator and microservices platform known for complexity and high operational overhead; evaluating migration off SF."
+    }
+  ]
+  
