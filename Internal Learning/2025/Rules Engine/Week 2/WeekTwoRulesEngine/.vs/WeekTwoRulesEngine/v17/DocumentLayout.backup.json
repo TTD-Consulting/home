@@ -1,32 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\ageunder25rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\ageunder25rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\smokerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\smokerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\ruleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\ruleresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\underwritinginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\underwritinginput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|c:\\users\\treve\\source\\repos\\weektworulesengine\\rules\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5310164-616B-427A-9740-CB5B515E1A2E}|WeekTwoRulesEngine.csproj|solutionrelative:rules\\irule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -34,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 203,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,84 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:1330258491:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SmokerRule.cs",
-              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\SmokerRule.cs",
-              "RelativeDocumentMoniker": "Rules\\SmokerRule.cs",
-              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\SmokerRule.cs",
-              "RelativeToolTip": "Rules\\SmokerRule.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:40:20.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AgeUnder25Rule.cs",
-              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\AgeUnder25Rule.cs",
-              "RelativeDocumentMoniker": "Rules\\AgeUnder25Rule.cs",
-              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\AgeUnder25Rule.cs",
-              "RelativeToolTip": "Rules\\AgeUnder25Rule.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAA/wBEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:40:05.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RuleResult.cs",
-              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\RuleResult.cs",
-              "RelativeDocumentMoniker": "Rules\\RuleResult.cs",
-              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\RuleResult.cs",
-              "RelativeToolTip": "Rules\\RuleResult.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:39:34.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRule.cs",
-              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\IRule.cs",
-              "RelativeDocumentMoniker": "Rules\\IRule.cs",
-              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\IRule.cs",
-              "RelativeToolTip": "Rules\\IRule.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:39:28.398Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UnderwritingInput.cs",
-              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\UnderwritingInput.cs",
-              "RelativeDocumentMoniker": "Rules\\UnderwritingInput.cs",
-              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Rules\\UnderwritingInput.cs",
-              "RelativeToolTip": "Rules\\UnderwritingInput.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:39:00.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T12:36:14.133Z",
-              "EditorCaption": ""
             }
           ]
         },

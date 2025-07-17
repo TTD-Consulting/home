@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj": {}
+    "C:\\Development\\TTD\\Learning\\home\\Internal Learning\\2025\\Rules Engine\\Week 2\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj": {}
   },
   "projects": {
-    "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj": {
+    "C:\\Development\\TTD\\Learning\\home\\Internal Learning\\2025\\Rules Engine\\Week 2\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj",
+        "projectUniqueName": "C:\\Development\\TTD\\Learning\\home\\Internal Learning\\2025\\Rules Engine\\Week 2\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj",
         "projectName": "WeekTwoRulesEngine",
-        "projectPath": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj",
-        "packagesPath": "C:\\Users\\treve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\treve\\source\\repos\\WeekTwoRulesEngine\\obj\\",
+        "projectPath": "C:\\Development\\TTD\\Learning\\home\\Internal Learning\\2025\\Rules Engine\\Week 2\\WeekTwoRulesEngine\\WeekTwoRulesEngine.csproj",
+        "packagesPath": "C:\\Users\\leero\\.nuget\\packages\\",
+        "outputPath": "C:\\Development\\TTD\\Learning\\home\\Internal Learning\\2025\\Rules Engine\\Week 2\\WeekTwoRulesEngine\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\treve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\leero\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,7 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {},
-          "https://dunstanthomas.pkgs.visualstudio.com/_packaging/Imago/nuget/v3/index.json": {}
+          "https://pkgs.dev.azure.com/iuabusinessolutions/_packaging/IUA_Libraries/nuget/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WeekTwoRulesEngine")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c476a2fcebbc566e7530f76a352f606d9e89d903")]
 [assembly: System.Reflection.AssemblyProductAttribute("WeekTwoRulesEngine")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WeekTwoRulesEngine")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
