@@ -2,6 +2,7 @@
 using RulesEngine;
 using RulesEngine.Configuration;
 using RulesEngine.Core;
+using RulesEngine.DependencyInjection;
 using RulesEngine.Models;
 
 Console.WriteLine("JSON-Based Rules Engine - Week 4 Demo");
@@ -44,17 +45,7 @@ static void DemonstrateFileBasedRules(UnderwritingInput[] applicants)
 
 static void DemonstrateDependencyInjection(UnderwritingInput[] applicants)
 {
-    var services = new ServiceCollection();
-    
-    services.AddSingleton<JsonRuleLoader<UnderwritingInput>>();
-    services.AddScoped<IEnumerable<IRule<UnderwritingInput>>>(provider =>
-    {
-        var loader = provider.GetRequiredService<JsonRuleLoader<UnderwritingInput>>();
-        return loader.LoadRulesFromFile("Configuration/underwriting-rules.json");
-    });
-    services.AddScoped<RuleEngine<UnderwritingInput>>();
-    
-    var provider = services.BuildServiceProvider();
+    var provider = RulesEngineServiceProvider.CreateProvider<UnderwritingInput>("Configuration/underwriting-rules.json");
     var engine = provider.GetRequiredService<RuleEngine<UnderwritingInput>>();
     
     Console.WriteLine("Using dependency injection pattern");
@@ -80,12 +71,15 @@ static void DemonstrateRuntimeRules(UnderwritingInput[] applicants)
     ]
     """;
 
-    var ruleLoader = new JsonRuleLoader<UnderwritingInput>();
-    var rules = ruleLoader.LoadRulesFromJson(runtimeRules);
+    var provider = RulesEngineServiceProvider.CreateProvider<UnderwritingInput>(serviceProvider =>
+    {
+        var ruleLoader = serviceProvider.GetRequiredService<JsonRuleLoader<UnderwritingInput>>();
+        return ruleLoader.LoadRulesFromJson(runtimeRules);
+    });
     
-    Console.WriteLine($"Loaded {rules.Count} rules from runtime JSON string");
+    var engine = provider.GetRequiredService<RuleEngine<UnderwritingInput>>();
     
-    var engine = new RuleEngine<UnderwritingInput>(rules);
+    Console.WriteLine($"Loaded rules from runtime JSON string");
     EvaluateApplicants(engine, applicants.Skip(4).Take(1).ToArray());
 }
 
@@ -117,6 +111,7 @@ static void EvaluateApplicants(RuleEngine<UnderwritingInput> engine, Underwritin
         engine.ExecutionLogs.Clear();
     }
 }
+
 
 
 
