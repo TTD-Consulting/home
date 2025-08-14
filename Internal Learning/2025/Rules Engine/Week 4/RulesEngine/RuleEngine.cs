@@ -1,0 +1,58 @@
+namespace RulesEngine;
+
+public class RuleEngine<T>
+{
+    private readonly IEnumerable<IRule<T>> _rules;
+    public List<RuleExecutionLog> ExecutionLogs { get; } = new();
+
+    public RuleEngine(IEnumerable<IRule<T>> rules)
+    {
+        _rules = rules;
+    }
+
+    public RuleEvaluationResult Evaluate(T input, ExecutionMode mode = ExecutionMode.AllPass)
+    {
+        var result = new RuleEvaluationResult();
+        int score = 0;
+
+        foreach (var rule in _rules)
+        {
+            var ruleResult = rule.Evaluate(input);
+            
+            // Get rule name - prefer Name property if available (for DynamicRule), otherwise use type name
+            string ruleName = rule.GetType().Name;
+            if (rule is DynamicRule<T> dynamicRule)
+            {
+                ruleName = dynamicRule.Name;
+            }
+            
+            ExecutionLogs.Add(new RuleExecutionLog
+            {
+                RuleName = ruleName,
+                Passed = ruleResult.IsSuccessful,
+                Message = ruleResult.Message,
+                Timestamp = DateTime.UtcNow
+            });
+
+            if (!ruleResult.IsSuccessful)
+            {
+                result.FailedRules.Add(ruleResult);
+                result.FailedMessages.Add(ruleResult.Message);
+
+                if (mode == ExecutionMode.FirstFail)
+                    break;
+            }
+            else if (mode == ExecutionMode.Scored)
+            {
+                score++;
+            }
+        }
+
+        if (mode == ExecutionMode.Scored)
+        {
+            result.Score = score;
+        }
+
+        return result;
+    }
+}

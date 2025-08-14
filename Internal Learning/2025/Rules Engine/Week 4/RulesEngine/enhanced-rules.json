@@ -1,0 +1,32 @@
+[
+  {
+    "field": "Age",
+    "operator": "<",
+    "value": 25,
+    "message": "Age under 25 requires manual review"
+  },
+  {
+    "field": "Age",
+    "operator": ">=",
+    "value": 65,
+    "message": "Senior citizens (65+) require medical examination"
+  },
+  {
+    "field": "Income",
+    "operator": "<",
+    "value": 10000,
+    "message": "Income must be at least R10,000"
+  },
+  {
+    "field": "IsSmoker",
+    "operator": "==",
+    "value": true,
+    "message": "Smoker applicants require premium loading"
+  },
+  {
+    "field": "RequestedCover",
+    "operator": ">",
+    "value": 500000,
+    "message": "Coverage amount exceeds maximum limit of R500,000"
+  }
+]
