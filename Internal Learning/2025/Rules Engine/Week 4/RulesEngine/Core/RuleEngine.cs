@@ -1,3 +1,6 @@
+using RulesEngine.Core;
+using RulesEngine.Configuration;
+
 namespace RulesEngine;
 
 public class RuleEngine<T>
@@ -19,7 +22,6 @@ public class RuleEngine<T>
         {
             var ruleResult = rule.Evaluate(input);
             
-            // Get rule name - prefer Name property if available (for DynamicRule), otherwise use type name
             string ruleName = rule.GetType().Name;
             if (rule is DynamicRule<T> dynamicRule)
             {

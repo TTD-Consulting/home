@@ -1,4 +1,4 @@
-namespace RulesEngine;
+namespace RulesEngine.Core;
 
 public class RuleEvaluationResult
 {

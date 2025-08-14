@@ -1,6 +1,6 @@
 using System.Text.Json.Serialization;
 
-namespace RulesEngine;
+namespace RulesEngine.Configuration;
 
 public class RuleDefinition
 {

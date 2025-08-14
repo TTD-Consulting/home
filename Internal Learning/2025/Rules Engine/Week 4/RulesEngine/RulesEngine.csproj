@@ -8,11 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="enhanced-rules.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <Content Include="enhanced-rules.json">
+    <Content Include="Configuration\underwriting-rules.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>

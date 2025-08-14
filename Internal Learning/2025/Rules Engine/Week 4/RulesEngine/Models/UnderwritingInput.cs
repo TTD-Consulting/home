@@ -1,4 +1,4 @@
-namespace RulesEngine.Rules.Underwriting;
+namespace RulesEngine.Models;
 
 public class UnderwritingInput
 {

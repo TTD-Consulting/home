@@ -1,7 +1,8 @@
 using System.Reflection;
 using System.Text.Json;
+using RulesEngine.Core;
 
-namespace RulesEngine;
+namespace RulesEngine.Configuration;
 
 public class JsonRuleLoader<T>
 {
@@ -35,7 +36,7 @@ public class JsonRuleLoader<T>
 public class DynamicRule<T> : IRule<T>
 {
     private readonly RuleDefinition _definition;
-    public string Name => $"DynamicRule_{_definition.Field}_{_definition.Operator}_{_definition.Value}";
+    public string Name => $"{_definition.Field}_{_definition.Operator}_{_definition.Value}";
 
     public DynamicRule(RuleDefinition definition)
     {
@@ -52,7 +53,7 @@ public class DynamicRule<T> : IRule<T>
                 return new RuleResult
                 {
                     IsSuccessful = false,
-                    Message = $"Property '{_definition.Field}' not found on type {typeof(T).Name}"
+                    Message = $"Property '{_definition.Field}' not found"
                 };
             }
 
