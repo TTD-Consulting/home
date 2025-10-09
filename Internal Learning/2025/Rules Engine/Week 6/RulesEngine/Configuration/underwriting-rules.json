@@ -1,0 +1,37 @@
+[
+  {
+    "field": "Age",
+    "operator": ">=",
+    "value": 25,
+    "message": "Age must be 25 or older",
+    "severity": "Soft"
+  },
+  {
+    "field": "Age",
+    "operator": "<",
+    "value": 65,
+    "message": "Age must be under 65",
+    "severity": "Soft"
+  },
+  {
+    "field": "Income",
+    "operator": ">=",
+    "value": 10000,
+    "message": "Income must be at least $10,000",
+    "severity": "Critical"
+  },
+  {
+    "field": "IsSmoker",
+    "operator": "==",
+    "value": false,
+    "message": "Non-smoker required",
+    "severity": "Soft"
+  },
+  {
+    "field": "RequestedCover",
+    "operator": "<=",
+    "value": 500000,
+    "message": "Coverage must not exceed $500,000",
+    "severity": "Critical"
+  }
+]
